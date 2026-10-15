@@ -1,3 +1,21 @@
 body{
-    background-color: #9c0bebba;
+    background-color: #eb650bcd;
+}
+
+header {
+background-color: rgb(204, 255, 0);
+color: rgb(200, 30, 191);
+}
+
+main{
+    background-color: aquamarine;
+    color: rgb(200, 30, 191);
+}
+div{
+    color: rgb(200, 30, 191);
+
+}
+
+footer{
+    background-color: blue;
 }
